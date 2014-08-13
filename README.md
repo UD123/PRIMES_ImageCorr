@@ -29,3 +29,24 @@ Using prime sense like method to match images
 % What 	:
 % 1. Revision - try to feedback from hist 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Vers 	: 06
+% When 	: 04/08/13
+% Who 	: UD
+% What 	:
+% 1. Revision - new approach 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Vers 	: 05
+% When 	: 01/08/13
+% Who 	: UD
+% What 	:
+% 1. Matching by affine param comoutation and back projection for each 3 close neighborhoods 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Vers 	: 04
+% When 	: 01/08/13
+% Who 	: UD
+% What 	:
+% 1. Continue to develop: 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
